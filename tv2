@@ -3,13 +3,13 @@
 https://papacito.cfd/m3u/now-234243234234/live.m3u8
 
 #EXTINF:-1 tvg-name="PPV 2" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/080/916/979/small/red-live-event-label-with-play-button-icon-for-special-occasion-streaming-and-online-coverage-vector.jpg" group-title="Live Events",PPV 2
-https://nuviosports.xyz/api/manifest?url=https%3A%2F%2Flb6.strmd.st%2Fsecure%2FasvpKFFJHZoFZdeQBJhSJSaWZvKKkYRL%2Frtmp%2Fstream%2F6z0ZeU40JKWUMPpfNwowgUjvu0lToXtOigL3x821A3V_wfNowJTrJEat1OPQ_tE0MOufc732QGM%2F1%2Fplaylist.m3u8&referer=https%3A%2F%2Fembed.st%2F&origin=https%3A%2F%2Fembed.st&rck=streamedpk%3Ats_juventus-v-cagliari-401874764%3Acagliari-vs-juventus-2482190
+https://nuviosports.xyz/api/manifest?url=https%3A%2F%2Flb1.strmd.st%2Fsecure%2FsWrhBjwOxjXlryqGMRgNDVlponNLSsBd%2Frtmp%2Fstream%2FC8HL0-_hkLJ5Y_OmN_31sRbzCL6ZdSu9lKoeJlTrxgjNPNI1UWAN-beQzi3XczYHqK2LAVRLeoq2%2F1%2Fplaylist.m3u8&referer=https%3A%2F%2Fembed.st%2F&origin=https%3A%2F%2Fembed.st&rck=streamedpk%3Aspk_coventry-city-vs-newcastle-united-2494059%3Acoventry-city-vs-newcastle-united-2494059
 
 #EXTINF:-1 tvg-name="PPV 3" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/080/916/979/small/red-live-event-label-with-play-button-icon-for-special-occasion-streaming-and-online-coverage-vector.jpg" group-title="Live Events",PPV 3
 https://nuviosports.xyz/api/manifest?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fseriea%2F2026-10-12%2Fata-ven%2Fplaylist.m3u8%3Ftk%3D5lYnmcHieFC245sU2dWDjQ%26e%3D1791868574&referer=https%3A%2F%2Fdamitv.st%2F&origin=https%3A%2F%2Fdamitv.st&rck=damitv%3Aspk_atalanta-vs-venezia-2482193%3Aseriea_2026-10-12_ata-ven_s1
 
 #EXTINF:-1 tvg-name="PPV 4" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/080/916/979/small/red-live-event-label-with-play-button-icon-for-special-occasion-streaming-and-online-coverage-vector.jpg" group-title="Live Events",PPV 4
-https://nuviosports.xyz/api/manifest?url=https%3A%2F%2Fnetanyahu.indianservers.st%2Fsecure%2FlrjaoSuRuHNPeXHajIamTPCZayrAlFxI%2F1791811800%2F1791838800%2Fsa_ata%2Findex.m3u8&referer=https%3A%2F%2Ftaifood-blog.asia%2F&origin=https%3A%2F%2Ftaifood-blog.asia&rck=ppvst%3Aspk_atalanta-vs-venezia-2482193%3A29910
+https://nuviosports.xyz/api/manifest?url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Fpl%2F2026-10-12%2Fcov-new%2Fplaylist.m3u8%3Ftk%3DD8Fw2dTZ7Gg_X6q7qJingA%26e%3D1791869178&referer=https%3A%2F%2Fdamitv.st%2F&origin=https%3A%2F%2Fdamitv.st&rck=damitv%3Aspk_coventry-city-vs-newcastle-united-2494059%3Apl_2026-10-12_cov-new_s1
 
 #EXTINF:-1 tvg-name="strumyk" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/080/916/979/small/red-live-event-label-with-play-button-icon-for-special-occasion-streaming-and-online-coverage-vector.jpg" group-title="Live Events",PPV 4
 #EXTVLCOPT:http-referrer=https://iplayer.is/
