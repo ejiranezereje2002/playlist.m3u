@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Monza at Torino" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401874957.png" group-title="Serie A",Monza at Torino[cite: 15]
-#EXTVLCOPT:http-referrer=https://frame.egybest.fit
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
 #EXTVLCOPT:http-origin=https://frame.egybest.fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hls.dptv.info/live/espn-401874957/index.m3u8
 
 #EXTINF:-1 tvg-name="Nottingham Forest at Ipswich Town" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401879253.png" group-title="Premier League",Nottingham Forest at Ipswich Town[cite: 15, 16]
-#EXTVLCOPT:http-referrer=https://frame.egybest.fit
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
 #EXTVLCOPT:http-origin=https://frame.egybest.fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://hls.dptv.info/live/espn-401879253/index.m3u8
+https://hls.doctv.info/live/espn-401879253/index.m3u8
 
 #EXTINF:-1 tvg-name="Málaga at Alavés" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401882836.png" group-title="LALIGA",Málaga at Alavés[cite: 16]
-#EXTVLCOPT:http-referrer=https://frame.egybest.fit
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/
 #EXTVLCOPT:http-origin=https://frame.egybest.fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hls.dptv.info/live/espn-401882836/index.m3u8
