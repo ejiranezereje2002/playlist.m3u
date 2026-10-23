@@ -18,9 +18,6 @@ https://hls.doctv.info/live/espn-401879253/index.m3u8
 https://hls.dptv.info/live/espn-401882836/index.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Bulls at Milwaukee Bucks" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401909848.png" group-title="NBA",Chicago Bulls at Milwaukee Bucks[cite: 17]
-#EXTVLCOPT:http-referrer=https://frame.egybest.fit
-#EXTVLCOPT:http-origin=https://frame.egybest.fit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hls.meth-streams-hd.cfd/live/espn-401909848/index.m3u8
 
 #EXTINF:-1 tvg-name="New York Knicks at Boston Celtics" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401909095.png" group-title="NBA",New York Knicks at Boston Celtics[cite: 17]
