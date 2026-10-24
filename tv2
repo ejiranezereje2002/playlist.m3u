@@ -24,6 +24,9 @@ https://hls.meth-streams-hd.cfd/live/espn-401882827/index.m3u8
 https://hls.meth-streams-hd.cfd/live/espn-401882834/index.m3u8
 
 #EXTINF:-1 tvg-name="Manchester City at Aston Villa" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401879256.png" group-title="Premier League",Manchester City at Aston Villa[cite: 32]
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit
+#EXTVLCOPT:http-origin=https://frame.egybest.fit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://hls.meth-streams-hd.cfd/live/espn-401879256/index.m3u8
 
 #EXTINF:-1 tvg-name="Everton at Arsenal" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401878768.png" group-title="Premier League",Everton at Arsenal[cite: 32, 33]
