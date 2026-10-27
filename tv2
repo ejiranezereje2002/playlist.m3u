@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bologna at Cagliari" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401874958.png" group-title="Serie A",Bologna at Cagliari[cite: 28]
-#EXTVLCOPT:http-referrer=https://frame.egybest.fit
-#EXTVLCOPT:http-origin=https://frame.egybest.fit
+#EXTVLCOPT:http-referrer=https://matchora.to/
+#EXTVLCOPT:http-origin=https://matchora.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://hls.meth-streams-hd.cfd/live/espn-401874958/index.m3u8
+https://e.veziha.cyou/hls/1917628/index.m3u8?t=MTkxNzYyOHwxNzkzMTE0MzE0fHx8fGNjMzc0NWJl._YFU7O1s5dPn8FkiVdvmDOaWWkwn3nPrL3k0UU10odc
+
 
 #EXTINF:-1 tvg-name="Sassuolo at Como" tvg-logo="http://dash.earnsphere.site/thumbnails/espn-401874961.png" group-title="Serie A",Sassuolo at Como[cite: 28, 29]
 #EXTVLCOPT:http-referrer=https://frame.egybest.fit
